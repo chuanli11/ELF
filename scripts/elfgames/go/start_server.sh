@@ -29,4 +29,4 @@ save=./myserver game=elfgames.go.game model=df_kl model_file=elfgames.go.df_mode
     --expected_num_client 496 \
     --selfplay_init_num 0 --selfplay_update_num 0 \
     --eval_num_games 0 --selfplay_async \
-    --lr 0.01    --momentum 0.9     1>> log.log 2>&1 &
+    --lr 0.01    --momentum 0.9

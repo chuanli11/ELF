@@ -25,3 +25,6 @@ Testing/
 pachi-*/
 experimental/patterns.prob
 experimental/patterns.spat
+
+
+venv-elf/*
